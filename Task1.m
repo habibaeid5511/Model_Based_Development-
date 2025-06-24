@@ -19,7 +19,7 @@ disp( primeNumbers)
 
 %%Specialized Matrix Functions
 identityMatrix =eye(3)  % a 3x3 identity matrix 
-magicSquare=magic(3)    %a 2x2 magic square 
+magicSquare=magic(3)    %a 3x3 magic square 
 
 %%Matrix Concatenation
 
