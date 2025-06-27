@@ -1,4 +1,3 @@
-%% Task1, While Loop
 %% Display even numbers
 x = 2;   % Initialize the variable x with the first even number
 
@@ -19,8 +18,7 @@ while c>=i
 end
    disp(['factorial ',num2str(c),' is ' ,num2str(result)])
 
-   %% Task2
-   %% Switch Statement
+  %% Switch Statement
    mode=input('Enter the mode of transportaion\n','s');      % Ask user for mode (string input)
    distance=input('Enter the distance in miles\n');                   % Ask user for distance (numeric)
 
